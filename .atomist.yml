@@ -18,3 +18,18 @@ editor:
     - "maven_user": "t************h"
     - "maven_token": "A***********************************************************************i"
 
+---
+kind: "operation"
+client: "atomist"
+editor:
+  name: "atomisthqa.private-test.SayHelloWorld"
+  group: "atomisthqa"
+  artifact: "private-test"
+  version: "0.1.0"
+  origin:
+    repo: "n/a"
+    branch: "n/a"
+    sha: "n/a"
+  parameters:
+    - "greeter": "cd"
+
