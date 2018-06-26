@@ -15,12 +15,15 @@ and this project adheres to [Semantic Versioning][semver-1].
 
 ### Added
 
--   090iuhkhbjhbyg [#1938][github-2]
+-   Update README.md [#1645][github-2]
+-   090iuhkhbjhbyg [#1938][github-3]
 
-[github-2]: https://github.com/atomisthqa/handlers/issues/1938
+[github-2]: https://github.com/atomisthqa/handlers/issues/1645
+
+[github-3]: https://github.com/atomisthqa/handlers/issues/1938
 
 ### Fixed
 
--   Sometimes record labels send you the weirdest stuff to ingest [#1902][github-3]
+-   Sometimes record labels send you the weirdest stuff to ingest [#1902][github-4]
 
-[github-3]: https://github.com/atomisthqa/handlers/issues/1902
+[github-4]: https://github.com/atomisthqa/handlers/issues/1902
