@@ -9,7 +9,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Added
 
--    Bla bla [#1937](https://github.com/atomisthqa/handlers/issues/1937)
+-   Test [#1934](https://github.com/atomisthqa/handlers/issues/1934)
+-   Bla bla [#1937](https://github.com/atomisthqa/handlers/issues/1937)
 -   Update README.md [#1645](https://github.com/atomisthqa/handlers/issues/1645)
 -   090iuhkhbjhbyg [#1938](https://github.com/atomisthqa/handlers/issues/1938)
 
