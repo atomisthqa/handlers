@@ -2,28 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
-The format is based on [Keep a Changelog][keepachangelog-1]
-and this project adheres to [Semantic Versioning][semver-1].
+The format is based on [Keep a Changelog](http://keepachangelog.com/)
+and this project adheres to [Semantic Versioning](http://semver.org/).
 
-[keepachangelog-1]: http://keepachangelog.com/
-
-[semver-1]: http://semver.org/
-
-[github-1]: https://github.com/atomisthqa/handlers/tree/HEAD
-
-## [Unreleased][github-1]
+## [Unreleased](https://github.com/atomisthqa/handlers/tree/HEAD)
 
 ### Added
 
--   Update README.md [#1645][github-2]
--   090iuhkhbjhbyg [#1938][github-3]
-
-[github-2]: https://github.com/atomisthqa/handlers/issues/1645
-
-[github-3]: https://github.com/atomisthqa/handlers/issues/1938
+-   Update README.md [#1645](https://github.com/atomisthqa/handlers/issues/1645)
+-   090iuhkhbjhbyg [#1938](https://github.com/atomisthqa/handlers/issues/1938)
 
 ### Fixed
 
--   Sometimes record labels send you the weirdest stuff to ingest [#1902][github-4]
-
-[github-4]: https://github.com/atomisthqa/handlers/issues/1902
+-    Sdfsfsf [#1936](https://github.com/atomisthqa/handlers/issues/1936)
+-   Sometimes record labels send you the weirdest stuff to ingest [#1902](https://github.com/atomisthqa/handlers/issues/1902)
