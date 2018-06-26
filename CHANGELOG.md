@@ -9,10 +9,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Added
 
+-    Bla bla [#1937](https://github.com/atomisthqa/handlers/issues/1937)
 -   Update README.md [#1645](https://github.com/atomisthqa/handlers/issues/1645)
 -   090iuhkhbjhbyg [#1938](https://github.com/atomisthqa/handlers/issues/1938)
 
 ### Fixed
 
--    Sdfsfsf [#1936](https://github.com/atomisthqa/handlers/issues/1936)
+-   Sdfsfsf [#1936](https://github.com/atomisthqa/handlers/issues/1936)
 -   Sometimes record labels send you the weirdest stuff to ingest [#1902](https://github.com/atomisthqa/handlers/issues/1902)
