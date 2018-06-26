@@ -18,3 +18,9 @@ and this project adheres to [Semantic Versioning][semver-1].
 -   090iuhkhbjhbyg [#1938][github-2]
 
 [github-2]: https://github.com/atomisthqa/handlers/issues/1938
+
+### Fixed
+
+-   Sometimes record labels send you the weirdest stuff to ingest [#1902][github-3]
+
+[github-3]: https://github.com/atomisthqa/handlers/issues/1902
