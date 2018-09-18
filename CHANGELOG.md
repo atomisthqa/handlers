@@ -18,4 +18,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Fixed
 
 -   Sdfsfsf [#1936](https://github.com/atomisthqa/handlers/issues/1936)
--   Sometimes record labels send you the weirdest stuff to ingest [#1902](https://github.com/atomisthqa/handlers/issues/1902)
+-   Sometimes record labels send you the weirdest stuff to ingest [#1902](https://github.com/atomisthqa/handlers/issues/1902) 
