@@ -9,7 +9,7 @@ Write your name here every time you edit this readme or get bad luck for 99 ish 
 * Eugh, Eugh, bibble, fiddle-de-dee,
 * agg
 * egg  KIPZ
-* kipz kipz kipz kipz
+* kipz kipz kipz kipz kipz
 
 boop
 boop
