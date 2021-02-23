@@ -121,3 +121,9 @@ boop
 boop
 boop
 boop
+
+## Fake aws key
+
+aws_secret='ABCDEF+c2L7yXeGvUyrPgYsDnWRRC1AYEXAMPLE'
+
+
